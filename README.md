@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![첫번째 프로젝트(train.png)](https://github.com/DE-yeon/DE-first)
+<a href="https://github.com/DE-yeon/DE-first">
+  <img src="train.png" alt="Train" width="30"/> 첫번째 프로젝트
+</a>
 <!--
 **DE-yeon/DE-yeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
